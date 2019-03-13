@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #161e2a; 
+}
+
+.bg-color {
+  background: #161e2a;
+}
+
+.bn-border {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border-top: none;  
+  border-left: none;  
+  border-right: none;  
+  border-bottom: 2px solid #315794;
+  background: #202836;
+  border-top-left-radius: 0.8rem;
+  border-top-right-radius: 0.8rem;
+}
+
+input, select, textarea, ::placeholder {
+  color: #a6a9af;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card-bg {
+  background: #202836;
+}
+.circle-bg {
+  background: #2c3444;
+}
+.card-heading-name {
+  color: #a93e38;
+}
